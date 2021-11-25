@@ -1,0 +1,9 @@
+*.pyc
+*.swp
+*.swn
+geckodriver.log
+[output]/*
+deviant/__pycache__/
+deviant/spiders/__pycache__/
+[output]/ARTSeeker321_70157003/*
+env/
